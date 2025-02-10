@@ -28,7 +28,7 @@ A simple, responsive web application that calculates a user's age based on their
 ## 🏗️ Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/age-calculator.git
+   git clone https://github.com/gamechanger530/age-calculator.git
    ```  
 2. Open `index.html` in your browser.  
 
